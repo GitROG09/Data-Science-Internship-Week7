@@ -1,9 +1,9 @@
 # Data-Science-Internship-Week7
-📌 Overview
+#📌 Overview
 
 This repository contains the Hands-On exercises and the Project submission for Week 7: Introduction to Statistics for Data Science. The focus is on applying descriptive statistics, probability distributions, hypothesis testing, correlation analysis, and confidence intervals to business datasets.
 
-🛠️ Repository Structure
+#🛠️ Repository Structure
 week7-statistics/
 │
 ├── hands_on/
@@ -21,7 +21,7 @@ hands_on/ – Contains five notebooks for practicing core statistics concepts.
 
 project/ – Contains a complete business analysis project with hypothesis testing, correlation analysis, and confidence interval calculations.
 
-📊 Tools & Libraries
+#📊 Tools & Libraries
 
 Python 3
 
@@ -35,8 +35,8 @@ Seaborn
 
 SciPy
 
-💡 Features / Highlights
-Hands-On
+#💡 Features / Highlights
+##Hands-On
 
 Calculated mean, median, mode, variance, and standard deviation for sales data.
 
@@ -48,7 +48,7 @@ Calculated correlations between marketing spend and sales.
 
 Computed confidence intervals for key business metrics.
 
-Project
+##Project
 
 Conducted a full statistical analysis on business data.
 
@@ -58,7 +58,7 @@ Visualized correlations and distributions.
 
 Provided actionable business insights based on statistical evidence.
 
-📈 How to Use
+#📈 How to Use
 
 Open the notebook in Google Colab or Jupyter Notebook.
 
@@ -68,7 +68,7 @@ Run the cells in order to reproduce the analysis.
 
 Edit the dataset if you want to test with your own business data.
 
-🔗 Dataset
+#🔗 Dataset
 
 A sample business dataset is included within the notebooks (sales_data.csv) (generated via code).
 
